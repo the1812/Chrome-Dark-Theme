@@ -1,0 +1,39 @@
+{
+    "name":"Chrome Dark",
+    "version":"1.01",
+    "description":"Dark theme for Chrome",
+    "manifest_version":2,
+    "theme":{
+        "colors":{
+            "frame":[34,34,34],
+            "frame_inactive":[34,34,34],
+            "frame_incognito":[34,34,34],
+            "frame_incognito_inactive":[34,34,34],
+            "background_tab":[34,34,34], 
+            "background_tab_inactive":[34,34,34], 
+            "background_tab_incognito":[34,34,34], 
+            "background_tab_incognito_inactive":[34,34,34], 
+            "toolbar":[68,68,68],
+            "tab_text":[238,238,238],
+            "tab_background_text":[170,170,170],
+            "tab_background_text_inactive":[170,170,170],
+            "tab_background_text_incognito":[170,170,170],
+            "tab_background_text_incognito_inactive":[170,170,170],
+            "bookmark_text":[170,170,170],
+            "ntp_background":[34,34,34],
+            "ntp_text":[238,238,238],
+            "ntp_link":[238,238,238],
+            "ntp_header":[238,238,238],
+            "button_background":[170,170,170,0]
+        },
+        "tints":{
+            "buttons":[0,0,0.93]
+        }
+    },
+    "icons":{
+        "16":"chrome-dark-small-16.png",
+        "48":"chrome-dark-small.png",
+        "128":"chrome-dark-128.png",
+        "256":"chrome-dark-128.png"
+    }
+}
