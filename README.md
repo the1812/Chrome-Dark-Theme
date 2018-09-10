@@ -4,7 +4,7 @@ Simple dark theme for Google Chrome Material Refresh UI.
 ![Screenshot](screenshot.png)
 
 # Install
-Go to `chrome://extensions` and open developer mode.
+Go to `chrome://extensions` and turn on developer mode.
 
 ## From packed `.crx` (Recommended)
 Drag and drop to install.
