@@ -1,4 +1,4 @@
 # Chrome Dark Theme
-Simple dark theme for Chrome Material Refresh UI.
+Simple dark theme for Google Chrome Material Refresh UI.
 
 ![Screenshot](screenshot.png)
