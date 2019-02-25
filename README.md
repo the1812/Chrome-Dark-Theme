@@ -1,4 +1,6 @@
 # Chrome Dark Theme
+> **The offcial dark theme is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab) now.**
+
 Simple dark theme for Google Chrome Material Refresh UI.
 
 ![Screenshot](screenshot.png)
