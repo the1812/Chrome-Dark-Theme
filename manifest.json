@@ -13,7 +13,7 @@
             "background_tab_inactive":[0,0,0], 
             "background_tab_incognito":[0,0,0], 
             "background_tab_incognito_inactive":[0,0,0], 
-            "toolbar":[44,48,51],
+            "toolbar":[53,57,60],
             "tab_text":[238,238,238],
             "tab_background_text":[170,170,170],
             "tab_background_text_inactive":[170,170,170],
