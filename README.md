@@ -3,7 +3,7 @@
 
 > ⚠ Dark themes may not work properly in Chrome version 73.
 
-Simple dark theme for Google Chrome Material Refresh UI.
+Simple dark theme for Google Chrome.
 
 ![Screenshot](screenshot.png)
 
